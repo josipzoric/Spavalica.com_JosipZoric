@@ -1,0 +1,157 @@
+body{
+  margin: 0px;
+  height: 100%;
+}
+
+.navigation-bar {
+  width: 100%;
+  height: 100px;
+  background-color: #000;
+  text-align: left;
+  display: grid;
+  grid-template-columns: 30% 70%;
+  vertical-align: middle;
+}
+.logo {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  height: 80px;
+  margin-right: 20px;
+}
+.navigation-bar > .nav-site > a {
+  display: inline-inline-block;
+	letter-spacing: 1px;
+	padding: 0px 10px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 14px;
+	border: none;
+	color: #fff;
+  vertical-align: middle;
+  height: 100%;
+}
+.nav-logo{
+  text-align: right;
+  margin: 10px 0px 0px 0px;
+}
+.nav-site{
+  vertical-align:middle;
+  margin: 43px 0px 0px 15%;
+}
+section{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.glazbaNaslov{
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 20% 80%;
+  vertical-align: middle;
+}
+.glazbaNaslov > .naslov1{
+  font-size: 34px;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  height: 40px;
+  background-color: #f994a1;
+  margin-bottom: 13px;
+}
+.glazbaNaslov > .naslov2{
+  text-align: center;
+  width: 100%;
+  height: 10px;
+  background-color: #f994a1;
+  margin-top: 15px;
+}
+.sportNaslov{
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 20% 80%;
+  vertical-align: middle;
+}
+.sportNaslov > .naslov1{
+  font-size: 34px;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  height: 40px;
+  background-color: #93d3f2;
+  margin-bottom: 13px;
+}
+.sportNaslov > .naslov2{
+  text-align: center;
+  width: 100%;
+  height: 10px;
+  background-color: #93d3f2;
+  margin-top: 15px;
+}
+footer{
+  width: 100%;
+  height: 100px;
+  background-color: #000;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.prijava{
+  color: #fff;
+  background-color: #000;
+  width: 100%;
+  height: 100%-200px;
+}
+.prijava > .nav-logo{
+  text-align: right;
+  margin: 0px 0px 0px 0px;
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+  height: 30%;
+}
+.prijava > .nav-logo > .logo1{
+  width: 40%;
+  height: 100%;
+  margin: 10% 30% 10% 30%;
+}
+.prijava > .nav-form{
+  color: #fff;
+  vertical-align:middle;
+  width: 60%;
+  height: 40%;
+  margin: 10% 20% 10% 20%;
+}
+.prijava > .nav-form > form{
+  vertical-align:middle;
+  margin: 20% 20% 20% 20%;
+  padding: 7px;
+  background-color: #fff;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+@media (max-width: 650px) {
+  body {
+    display: block;
+    font-size: 80%;
+  }
+  p {
+    position: relative;
+    margin: -3rem 0 2rem 1rem;
+    padding: 1rem;
+    background: rgba(white, 0.8);
+  }
+}
+.content{
+  margin: 7px;
+}
