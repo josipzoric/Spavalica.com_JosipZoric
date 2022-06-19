@@ -44,6 +44,11 @@
         <h2>ŠTO ĆE BITI S LOVRENOM? OSTANE LI U RUSIJI, MOŽDA NEĆE VIDJETI SP! A PORUKA NA INSTAGRAMU SUGERIRA OVO...</h2>
         <p>oš tamo početkom svibnja Dejan Lovren je sa Zenitom postao prvak Rusije. To mu je bio drugi naslov prvaka u dvije sezone koliko je u ruskom klubu. Hrvatski reprezentativac, koji je sa Zenitom osvojio i dva Superkupa, ove je sezone zbog ozljeda nastupio tek 19 puta, 14 puta u prvenstvu, 4 puta u Ligi prvaka, te jednom u ruskom Superkupu. Posljednju utakmicu za Zenit odigrao je 12. prosinca prošle godine protiv moskovskog Dinama. Nakon te utakmice pojavio se problem s gležnjem, tako da, eto, nije zaigrao već pola godine. Iz tog razloga izbornik Zlatko Dalić nije ga logično niti pozvao na ovo okupljanje reprezentacije za četiri utakmice Lige nacija. Pozvao ga je bio na prošlo, bio je Lovren s reprezentacijom u Dohi, ali samo radi “team buildinga”. (Info: Jutarnji.hr)</p>
       </div>
+      <div class="content" style="margin: 7px;">
+        <img src='https://static.jutarnji.hr/images/slike/2022/06/19/f_25190719_1024.jpg?2022-06-19-20-38-09' width="200" height="150" alt=''>
+        <h2>AKTUALNI PRVAK UPISAO SVOJ ŠESTI TRIJUMF U DEVETOJ UTRCI SEZONE I NASTAVIO GALOPIRATI PREMA OBRANI NASLOVA</h2>
+        <p>Formula 1 vratila se nakon pune tri godine u Kanadu, ali na stazi sve je ostalo po starome. Što će reći da je Max Verstappen nastavio galopirati prema obrani naslova prvaka. U devetoj utrci sezone upisao je već šestu pobjedu i s obzirom na muke njegovih najvećih rivala, Sergija Pereza i Charlesa Leclerca, izgradio je popriličnu zalihu od 46, odnosno 49 bodova.</p>
+      </div>
     </section>
     <footer>
     </footer>

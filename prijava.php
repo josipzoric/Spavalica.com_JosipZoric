@@ -73,7 +73,7 @@ function provjera($username, $password) {
                   <label>Korisničko ime: </label>
                 </td>
                 <td>
-                  <input id="name" name="username" type="text">
+                  <input id="name" name="username" type="text" autocomplete="off">
                 </td>
               </tr>
               <tr>
